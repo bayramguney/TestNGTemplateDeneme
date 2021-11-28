@@ -24,6 +24,6 @@ public class LoginTest extends BaseTest {
 
 
 
-       // quit();
+        quit();
     }
 }
