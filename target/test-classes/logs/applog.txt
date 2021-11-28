@@ -1,0 +1,1 @@
+INFO    2021-11-28 14:30:28,124 [main] testcases.BaseTest  - Config properties file loaded
