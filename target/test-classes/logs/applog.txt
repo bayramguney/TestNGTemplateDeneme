@@ -1,1 +1,5 @@
-INFO    2021-11-28 14:30:28,124 [main] testcases.BaseTest  - Config properties file loaded
+INFO    2021-11-29 05:07:02,589 [main] testcases.BaseTest  - Config properties file loaded
+INFO    2021-11-29 05:07:08,084 [TestNG-test=Test1-3] testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-11-29 05:07:08,463 [TestNG-test=Test1-1] testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-11-29 05:07:08,525 [TestNG-test=Test1-4] testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-11-29 05:07:08,632 [TestNG-test=Test1-2] testcases.BaseTest  - Driver Initialized !!!

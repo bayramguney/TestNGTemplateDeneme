@@ -181,10 +181,10 @@ public class BaseTest extends PageInitializer {
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 		element.click();
 	}
-
+@AfterTest
 	public void quit() {
 
-		DriverManager.getDriver().quit();
+		driver.quit();
 		log.info("Test Execution Completed !!!");
 	}
 
