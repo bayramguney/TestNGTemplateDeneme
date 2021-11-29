@@ -1,5 +1,7 @@
-INFO    2021-11-29 05:07:02,589 [main] testcases.BaseTest  - Config properties file loaded
-INFO    2021-11-29 05:07:08,084 [TestNG-test=Test1-3] testcases.BaseTest  - Driver Initialized !!!
-INFO    2021-11-29 05:07:08,463 [TestNG-test=Test1-1] testcases.BaseTest  - Driver Initialized !!!
-INFO    2021-11-29 05:07:08,525 [TestNG-test=Test1-4] testcases.BaseTest  - Driver Initialized !!!
-INFO    2021-11-29 05:07:08,632 [TestNG-test=Test1-2] testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-11-29 05:43:44,733 [main] testcases.BaseTest  - Config properties file loaded
+INFO    2021-11-29 05:43:50,062 [TestNG-test=Test1-2] testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-11-29 05:43:50,260 [TestNG-test=Test1-1] testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-11-29 05:43:50,369 [TestNG-test=Test1-3] testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-11-29 05:44:18,102 [TestNG-test=Test1-3] testcases.BaseTest  - Test Execution Completed !!!
+INFO    2021-11-29 05:44:28,628 [TestNG-test=Test1-2] testcases.BaseTest  - Test Execution Completed !!!
+INFO    2021-11-29 05:44:28,927 [TestNG-test=Test1-1] testcases.BaseTest  - Test Execution Completed !!!
