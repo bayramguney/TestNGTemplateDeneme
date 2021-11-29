@@ -18,7 +18,7 @@ public class LoginTest extends BaseTest {
 
         getUrl(ConfigsReader.getProperty("url"));
 
-        ExtentListeners.testReport.get().log(Status.INFO,ConfigsReader.getProperty("url1")+" acildi");
+        ExtentListeners.testReport.get().log(Status.INFO,ConfigsReader.getProperty("url")+" acildi");
 
 
         Assert.assertTrue(driver.getTitle()=="sEalam");

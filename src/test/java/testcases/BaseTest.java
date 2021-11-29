@@ -181,7 +181,7 @@ public class BaseTest extends PageInitializer {
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 		element.click();
 	}
-@AfterTest
+@AfterMethod
 	public void quit() {
 
 		driver.quit();
